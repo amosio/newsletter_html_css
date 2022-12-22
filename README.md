@@ -1,0 +1,1 @@
+# Przepisanie szablonu newslettera na nowoczesny html i css
